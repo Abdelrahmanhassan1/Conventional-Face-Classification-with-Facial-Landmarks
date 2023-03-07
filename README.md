@@ -20,6 +20,6 @@ To use this project, clone the repository and install the required dependencies.
 
 Overall, this project showcases the potential of using conventional methods for face shape classification using facial landmarks. It provides a valuable resource for researchers and developers interested in exploring different approaches to face recognition and classification.
 
-## Research Paper
+## Our Research Paper
 
-<a href="https://drive.google.com/drive/u/1/folders/1f8znYMpoTkWWW80yMLW6RGjBJ5aPpHNi">Research_paper</a>
+<a href="https://drive.google.com/file/d/1SLyu3W7sT5kIFkcTbTb8AZeGnBjvsCHl/view">Research_paper</a>
