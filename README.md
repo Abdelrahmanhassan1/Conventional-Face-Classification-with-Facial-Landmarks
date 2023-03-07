@@ -23,3 +23,7 @@ Overall, this project showcases the potential of using conventional methods for 
 ## Our Research Paper
 
 <a href="https://drive.google.com/file/d/1SLyu3W7sT5kIFkcTbTb8AZeGnBjvsCHl/view">Research_paper</a>
+
+## Application Demo
+
+<img src="./docs/1.png" width=800px height = 500px>
